@@ -1,1 +1,14 @@
-# TEC_IFW_2023
+# TEC de Monterrey International Faculty Week 2023
+
+This repossitory contains some code examples from my presentations at the International Faculty Week at 
+Tec de Monterrey, Campus Ciudad de Mexico.
+
+## Reinforcement Learning
+
+- [x] Q-Learning applied to Blackjack
+- [ ] Policy Learning applied to Pong
+- [ ] Deep-Q-Learning applied to Pong
+
+## Text Classification with Transformers
+
+- [ ] Classifying tweets for hate speech using the [Huggingface](https://huggingface.co) transformer library
