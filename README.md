@@ -9,6 +9,7 @@ Tec de Monterrey, Campus Ciudad de Mexico.
       ([Colab link](https://colab.research.google.com/github/fhswf/TEC_IFW_2023/blob/main/Blackjack_Q-Learning.ipynb))
 - [x] [Policy Learning applied to Pong](Pong.ipynb)
 - [ ] Deep-Q-Learning applied to Pong
+- [x] [Workshop exercise](Exercise_RL.ipynb) on Reinforcement Learning.
 
 ## Text Classification with Transformers
 
