@@ -12,4 +12,5 @@ Tec de Monterrey, Campus Ciudad de Mexico.
 
 ## Text Classification with Transformers
 
-- [ ] Classifying tweets for hate speech using the [Huggingface](https://huggingface.co) transformer library
+- [x] [Classifying tweets for hate speech](TextClassification.ipynb) 
+      using the [Huggingface](https://huggingface.co) transformer library
