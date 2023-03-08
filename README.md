@@ -8,7 +8,7 @@ Tec de Monterrey, Campus Ciudad de Mexico.
 - [x] Q-Learning applied to Blackjack <a target="_blank" href="https://colab.research.google.com/github/fhswf/TEC_IFW_2023/blob/main/Blackjack_Q-Learning.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
-- [ ] Policy Learning applied to Pong
+- [x] Policy Learning applied to Pong
 - [ ] Deep-Q-Learning applied to Pong
 
 ## Text Classification with Transformers
